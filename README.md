@@ -17,3 +17,4 @@ Then, you click on the "See Profile" button and are directed to a page with all 
 <h1 align="center">
   <img src="./gifDemo.gif" width="250px" height="450px" />
 </h1>
+
