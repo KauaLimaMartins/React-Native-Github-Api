@@ -18,3 +18,4 @@ Then, you click on the "See Profile" button and are directed to a page with all 
   <img src="./gifDemo.gif" width="250px" height="450px" />
 </h1>
 
+in the gif, the sides are black because of my smartphone, no error in the App
